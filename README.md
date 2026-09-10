@@ -1,30 +1,25 @@
-<div align="center">
-  <h1>Hi there, I'm Salomé Restrepo Lugo! 👋</h1>
-  <p><b>Systems Engineering Student | Software Developer & Technical Lead</b></p>
-  
-  <a href="https://www.linkedin.com/in/salome-restrepo-lugo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-  </a>
-</div>
-
+![Recurso 1](https://github.com/SalenLuu/salenluu/assets/115598035/e14db389-7b7b-417c-bcc8-9d8ce2f46040)
 <br>
 
-## 👩‍💻 About Me
-
-I am a Systems Engineering student and Software Developer with over two years of professional end-to-end development experience in the financial and B2B sectors. I recently led the autonomous technical execution of credit card modules and international social media metric platforms.
-
-My focus is on bridging robust, scalable software engineering with emerging computational paradigms. I am currently expanding my theoretical foundation in linear algebra, artificial intelligence, and quantum computing. 
-
-* 🔭 **Currently working on:** High-performance B2B applications and autonomous module deployments.
-* 🌱 **Currently learning:** Machine Learning foundations and Quantum Computing concepts.
-* 💬 **Ask me about:** Full-stack development, API optimization, reactive architectures, and Linux environments.
-
-<br>
+<div align="center"><img src="https://github.com/SalenLuu/salenluu/assets/115598035/955b7f2c-0c34-4ee1-8179-acef201683d4" width="300" heigth="80"/></div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="120" align="right"/>
-  <h2>🛠️ My Tech Stack</h2>
+<a href="https://www.linkedin.com/in/salome-restrepo-lugo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%2385BDF8?logo=linkedin&logoColor=white"></a>
 </div>
+<br>
+
+#
+<br>
+<div align="center"><img src="https://github.com/SalenLuu/salenluu/assets/115598035/38fa5231-583f-431f-af4b-7c3e184b3201" width="130" heigth="40"/></div>
+I am a Systems Engineering student (GPA: 4.09) and Software Developer with over two years of professional end-to-end development experience. I have led the technical execution of B2B platforms and enterprise financial modules, focusing on system optimization and reactive architectures. Currently, I am expanding my theoretical foundation in AI, linear algebra, and quantum computing, seeking to bridge robust software engineering with emerging computational paradigms.
+
+#
+
+<br>
+<div align="center"><img src="https://github.com/SalenLuu/salenluu/assets/115598035/c0c85286-f249-4950-a16e-cec6bfbad2ca" width="170" heigth="60"/> <img align="right" src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="180"/></div>
+
+<br>
+<h5 align="center">I have strong knowledge in the following technologies:</h5>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -42,26 +37,14 @@ My focus is on bridging robust, scalable software engineering with emerging comp
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-</p>
+</p><br>
 
-<br>
+#
 
-<div align="center">
-  <h2>🎨 My Design Stack</h2>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-</div>
-
-<br>
-
-## 📊 GitHub Analytics
+<div align="center"><img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/23335a137681793.620f4a02711c2.gif" width="140"/><br><img src="https://github.com/SalenLuu/salenluu/assets/115598035/8ab9541c-10b8-40e5-a2a6-c8a02e76a530" width="190" heigth="60" /></div>
 
 <div align="center">
-  <img src="https://media.tenor.com/xzjlrhYq_lQAAAAj/cat-nyan-cat.gif" width="80">
-  <br><br>
-  <a href="https://github.com/SalenLuu">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SalenLuu&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SalenLuu&layout=compact&langs_count=8&theme=cobalt"/>
-  </a>
-</div>
+<h5>I have extensive experience with the following design tools</h5>
+
+  <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-0-1.png" alt="Adobe Illustrator" width="60">
+  <img
